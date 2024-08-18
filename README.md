@@ -1,21 +1,21 @@
-# AstroQuest: Survival
-**A Journey of Survival and Discovery in the Unknown**
+# AstroQuest: Adventure
+**A Journey of Survival and Repair in the Unknown**
 
 ## Game Overview
 
 ### Game Concept
-A stranded astronaut on an alien planet discovers that the planet is Earth-like, with water, oxygen, and edible fruit trees that are different from Earth. The astronaut must survive against hostile creatures and harsh environments while collecting resources to repair his space shuttle and return home.
+A stranded astronaut on an alien planet must survive against hostile alien creatures and harsh environments while collecting resources and missing shuttle pieces to repair his space shuttle and return home.
 
 ### Genre
 - Adventure
 - Survival
-- Puzzle
+- Exploration
 
 ### Target Audience
-Gamers who enjoy survival and exploration games with a touch of puzzle-solving.
+Gamers who enjoy survival and exploration games with a focus on combat and resource management.
 
 ### Game Flow Summary
-The player navigates through different levels, each with unique challenges and puzzles. The player must collect resources, avoid or combat threats, and find the missing parts of the space shuttle.
+A 3D open-world PC video game where the player navigates through a vast, interconnected environment, defeating alien enemies and collecting missing pieces to repair the space shuttle and return home.
 
 ### Look and Feel
 The game has a futuristic, yet rustic look with the contrast of advanced space technology and the primitive alien world. The visual style is realistic with a touch of alien aesthetics.
@@ -25,20 +25,17 @@ The game has a futuristic, yet rustic look with the contrast of advanced space t
 ### Gameplay
 
 #### Game Progression
-The game progresses as the player completes levels, each representing a different region of the planet with unique challenges.
+The game progresses as the player explores different regions of the planet, defeating alien enemies and collecting the necessary pieces to repair the space shuttle. Each region offers unique environments and threats, contributing to the overall goal of returning home.
 
 #### Mission/Challenge Structure
-Each level has a set of missions or challenges that the player must complete to progress. These could include combat with alien creatures, navigation through difficult terrain, and solving puzzles to find the missing shuttle parts.
-
-#### Puzzle Structure
-Puzzles are integrated into the environment and involve manipulating objects, deciphering alien symbols, and using collected resources in creative ways.
+The player is tasked with exploring different regions to defeat alien enemies, collect missing shuttle pieces, and gather resources. Each region presents its own set of challenges, from navigating difficult terrain to facing increasingly dangerous alien threats.
 
 #### Objectives
-- Main Objective: Repair the space shuttle and leave the planet.
-- Secondary Objectives: Survival, exploration, and resource collection.
+- **Main Objective:** Repair the space shuttle and leave the planet.
+- **Secondary Objectives:** Survival, exploration, and resource collection.
 
 #### Play Flow
-The player explores the environment, fights or avoids threats, collects resources, solves puzzles, and repairs the shuttle.
+The player explores the environment, fights or avoids threats, collects resources, and repairs the shuttle to progress towards the ultimate goal of returning home.
 
 ### Mechanics
 
@@ -61,14 +58,14 @@ Combat involves using weapons or tools against alien creatures. The player can a
 The game’s economy revolves around collecting and using resources. Some resources are common, while others are rare and require effort to obtain.
 
 #### Screen Flow
-The game transitions smoothly from exploration to combat to puzzle-solving, keeping the player engaged.
+The game transitions smoothly from exploration to combat, keeping the player engaged.
 
 ### Game Options
 N/A
 
 ### Replaying and Saving
-- **Save Points**: The game could have save points located at the astronaut’s spaceship and at discovered ancient ruins. This would allow players to save their progress.
-- **Replayability**: N/A
+- **Save Points:** The game could have save points located at the astronaut’s spaceship and at discovered ancient ruins. This would allow players to save their progress.
+- **Replayability:** N/A
 
 ### Cheats and Easter Eggs
 N/A
@@ -76,7 +73,7 @@ N/A
 ## Story, Setting, and Character
 
 ### Story and Narrative
-The game begins with the astronaut crash-landing on the alien planet. As he steps out of his damaged shuttle, he discovers that the planet is surprisingly Earth-like, with breathable air, water, and even trees bearing strange but edible fruits. This initial sense of relief is short-lived as he soon realizes that he is not alone. The planet is home to alien creatures and has its own dangers. The astronaut’s struggle for survival begins as he explores this new world, fights off threats, and searches for the missing parts of his shuttle.
+The game begins with the astronaut crash-landing on an alien planet. As he steps out of his damaged shuttle, he discovers that the planet, while alien, has elements that are surprisingly Earth-like. However, the astronaut quickly realizes that survival won't be easy as the planet is home to hostile alien creatures. The astronaut’s journey involves defeating these enemies, collecting missing pieces of his shuttle, and ultimately repairing it to return home.
 
 ### Game World
 The game world is an alien planet with diverse environments, including forests, caves, deserts, and alien structures.
@@ -87,10 +84,10 @@ The main character is the astronaut, a skilled and resourceful explorer. The pla
 ## Levels
 
 ### Levels
-Each level represents a different region of the planet with unique challenges, puzzles, and enemies.
+Each region represents a different area of the planet with unique challenges and enemies, contributing to the overall progression of repairing the shuttle.
 
 ### Training Level
-The first level serves as a tutorial, teaching the player the basic controls and mechanics.
+The first region serves as a tutorial, teaching the player the basic controls and mechanics.
 
 ## Interface
 
@@ -117,7 +114,7 @@ Background sounds like wind, water, and alien wildlife can make the alien planet
 The game could start with a tutorial that guides the player through the basic mechanics of survival and resource collection.
 
 #### Hints
-If the player is stuck, the game could provide hints. For example, if the player is struggling to find a certain resource, the game could hint at its location.
+If the player is stuck, the game could provide hints. For example, if the player is struggling to find a certain resource or shuttle part, the game could hint at its location.
 
 ## Artificial Intelligence
 
@@ -125,7 +122,7 @@ If the player is stuck, the game could provide hints. For example, if the player
 Alien creatures have different behaviors and attack patterns, requiring the player to adapt their strategy.
 
 ### Non-combat and Friendly Characters
-Some alien creatures are neutral or friendly, providing opportunities for interaction and trading.
+Some alien creatures are neutral or friendly, providing opportunities for interaction or resource collection.
 
 ### Support AI
 The game includes pathfinding AI for the player and enemies, and collision detection for all objects.
